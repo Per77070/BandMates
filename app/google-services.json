@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "1041191538495",
+    "firebase_url": "https://bandmates-53746.firebaseio.com",
+    "project_id": "bandmates-53746",
+    "storage_bucket": "bandmates-53746.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1041191538495:android:cffc8f091f7176ccb90d8a",
+        "android_client_info": {
+          "package_name": "com.example.bandmates"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1041191538495-215649i526fkf2aiuo2sgdnpd5mrrk5m.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.bandmates",
+            "certificate_hash": "77a65ad807a723eb54dd1a0f2182c804d4a49c29"
+          }
+        },
+        {
+          "client_id": "1041191538495-apj768olu68t9219oa1gu3ugvqbamuq2.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDvRanbbiThC_ErOWQ4v8BzbAtlfSVT0EY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1041191538495-apj768olu68t9219oa1gu3ugvqbamuq2.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="default_web_client_id" translatable="false">1041191538495-apj768olu68t9219oa1gu3ugvqbamuq2.apps.googleusercontent.com</string>
+    <string name="firebase_database_url" translatable="false">https://bandmates-53746.firebaseio.com</string>
+    <string name="gcm_defaultSenderId" translatable="false">1041191538495</string>
+    <string name="google_api_key" translatable="false">AIzaSyDvRanbbiThC_ErOWQ4v8BzbAtlfSVT0EY</string>
+    <string name="google_app_id" translatable="false">1:1041191538495:android:cffc8f091f7176ccb90d8a</string>
+    <string name="google_crash_reporting_api_key" translatable="false">AIzaSyDvRanbbiThC_ErOWQ4v8BzbAtlfSVT0EY</string>
+    <string name="google_storage_bucket" translatable="false">bandmates-53746.appspot.com</string>
+    <string name="project_id" translatable="false">bandmates-53746</string>
+</resources>
