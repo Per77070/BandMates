@@ -36,6 +36,10 @@
         "source": "/Users/Per/Downloads/BandMates/app/build/generated/res/pngs/debug/drawable-mdpi/ic_launcher_background.png"
     },
     {
+        "merged": "/Users/Per/Downloads/BandMates/app/build/intermediates/res/merged/debug/layout_activity_band_registration.xml.flat",
+        "source": "/Users/Per/Downloads/BandMates/app/src/main/res/layout/activity_band_registration.xml"
+    },
+    {
         "merged": "/Users/Per/Downloads/BandMates/app/build/intermediates/res/merged/debug/layout_fragment_notifications.xml.flat",
         "source": "/Users/Per/Downloads/BandMates/app/src/main/res/layout/fragment_notifications.xml"
     },
@@ -46,6 +50,10 @@
     {
         "merged": "/Users/Per/Downloads/BandMates/app/build/intermediates/res/merged/debug/drawable-hdpi_ic_home_black_24dp.png.flat",
         "source": "/Users/Per/Downloads/BandMates/app/build/generated/res/pngs/debug/drawable-hdpi/ic_home_black_24dp.png"
+    },
+    {
+        "merged": "/Users/Per/Downloads/BandMates/app/build/intermediates/res/merged/debug/layout_activity_musician.xml.flat",
+        "source": "/Users/Per/Downloads/BandMates/app/src/main/res/layout/activity_musician.xml"
     },
     {
         "merged": "/Users/Per/Downloads/BandMates/app/build/intermediates/res/merged/debug/layout_fragment_home.xml.flat",
@@ -74,6 +82,14 @@
     {
         "merged": "/Users/Per/Downloads/BandMates/app/build/intermediates/res/merged/debug/navigation_mobile_navigation.xml.flat",
         "source": "/Users/Per/Downloads/BandMates/app/src/main/res/navigation/mobile_navigation.xml"
+    },
+    {
+        "merged": "/Users/Per/Downloads/BandMates/app/build/intermediates/res/merged/debug/layout_activity_choice.xml.flat",
+        "source": "/Users/Per/Downloads/BandMates/app/src/main/res/layout/activity_choice.xml"
+    },
+    {
+        "merged": "/Users/Per/Downloads/BandMates/app/build/intermediates/res/merged/debug/layout_activity_band.xml.flat",
+        "source": "/Users/Per/Downloads/BandMates/app/src/main/res/layout/activity_band.xml"
     },
     {
         "merged": "/Users/Per/Downloads/BandMates/app/build/intermediates/res/merged/debug/drawable-v24_ic_launcher_foreground.xml.flat",

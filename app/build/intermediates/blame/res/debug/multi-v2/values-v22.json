@@ -4,7 +4,7 @@
             "outputFile": "/Users/Per/Downloads/BandMates/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-v22/values-v22.xml",
             "map": [
                 {
-                    "source": "/Users/Per/.gradle/caches/transforms-2/files-2.1/244092e0156e459a7583b7704790a941/appcompat-1.0.2/res/values-v22/values-v22.xml",
+                    "source": "/Users/Per/.gradle/caches/transforms-2/files-2.1/dd35abc2ba46bd96b9f6f2262cdfa1b6/appcompat-1.0.2/res/values-v22/values-v22.xml",
                     "from": {
                         "startLines": "2,3,4,9",
                         "startColumns": "4,4,4,4",

@@ -1132,9 +1132,11 @@ id barrier
 id beginning
 id blocking
 id bottom
+id button
+id button2
 id buttonPanel
-id button_home
 id button_home_second
+id button_register_profile
 id cancel_action
 id center
 id center_horizontal
@@ -1163,6 +1165,7 @@ id dimensions
 id direct
 id disableHome
 id edit_query
+id email_register
 id end
 id end_padder
 id enterAlways
@@ -1228,6 +1231,7 @@ id parallax
 id parent
 id parentPanel
 id parent_matrix
+id password_register
 id percent
 id pin
 id progress_circular
@@ -1289,7 +1293,6 @@ id textSpacerNoButtons
 id textSpacerNoTitle
 id textStart
 id text_dashboard
-id text_home
 id text_input_password_toggle
 id text_notifications
 id textinput_counter
@@ -1366,7 +1369,11 @@ layout abc_search_dropdown_item_icons_2line
 layout abc_search_view
 layout abc_select_dialog_material
 layout abc_tooltip
+layout activity_band
+layout activity_band_registration
+layout activity_choice
 layout activity_main
+layout activity_musician
 layout design_bottom_navigation_item
 layout design_bottom_sheet_dialog
 layout design_layout_snackbar

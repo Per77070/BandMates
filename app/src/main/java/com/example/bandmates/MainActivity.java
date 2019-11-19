@@ -3,6 +3,7 @@ package com.example.bandmates;
 import androidx.annotation.NonNull;
 import androidx.appcompat.app.AppCompatActivity;
 
+import android.content.Intent;
 import android.os.Bundle;
 import android.text.TextUtils;
 import android.view.View;
@@ -66,7 +67,8 @@ public class MainActivity extends AppCompatActivity {
                             if (task.isSuccessful()){
 
                                 Toast.makeText(MainActivity.this,"Account created successfully.",Toast.LENGTH_LONG).show();
-
+                                Intent choiceIntent = new Intent(MainActivity.this,ChoiceActivity.class)  ;
+                                startActivity(choiceIntent);
                             }
 
                             else {
@@ -86,11 +88,5 @@ public class MainActivity extends AppCompatActivity {
 
     }
 
-    public void registerProfile(View view) {
 
-
-
-
-
-    }
 }
