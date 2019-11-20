@@ -30,6 +30,7 @@ public class MainActivity extends AppCompatActivity {
 
 
         Button createProfileButton = (Button) findViewById(R.id.button_register_profile);
+        Button loginProfileButton = (Button) findViewById(R.id.button_login_profile);
         createProfileButton.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View view) {
@@ -37,6 +38,19 @@ public class MainActivity extends AppCompatActivity {
             }
         });
 
+loginProfileButton.setOnClickListener(new View.OnClickListener() {
+    @Override
+    public void onClick(View view) {
+        LoginAccount();
+    }
+});
+
+    }
+
+    private void LoginAccount() {
+
+        Intent loginIntent = new Intent(MainActivity.this,LoginActivity.class);
+        startActivity(loginIntent);
 
 
     }
@@ -66,7 +80,7 @@ public class MainActivity extends AppCompatActivity {
                         public void onComplete(@NonNull Task<AuthResult> task) {
                             if (task.isSuccessful()){
 
-                                Toast.makeText(MainActivity.this,"Account created successfully.",Toast.LENGTH_LONG).show();
+                                Toast.makeText(MainActivity.this,"Signed in successfully.",Toast.LENGTH_LONG).show();
                                 Intent choiceIntent = new Intent(MainActivity.this,ChoiceActivity.class)  ;
                                 startActivity(choiceIntent);
                             }

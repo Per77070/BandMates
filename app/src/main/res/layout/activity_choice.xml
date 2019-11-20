@@ -8,7 +8,7 @@
 
 
     <Button
-        android:id="@+id/button"
+        android:id="@+id/lookingForMusicians"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:text="We're a band looking for musicians"
@@ -21,10 +21,10 @@
         app:layout_constraintVertical_bias="0.259" />
 
     <Button
-        android:id="@+id/button2"
+        android:id="@+id/lookingForABand"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:text="I'm a muusician looking for a band"
+        android:text="I'm a musician looking for a band"
         android:onClick="musician"
         app:layout_constraintBottom_toBottomOf="parent"
         app:layout_constraintEnd_toEndOf="parent"
